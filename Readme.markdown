@@ -4,7 +4,7 @@ Simple jQuery plugin to provide watermark hints and suggestions for text input f
 
 Example:
 
-    <input id="phone" name="phone" type="text" value="value for name"/>
+    <input id="phone" name="phone" type="text" />
   
     <script type="text/javascript" charset="utf-8">
       $("#phone").hint('+52 (55) 56581591')
