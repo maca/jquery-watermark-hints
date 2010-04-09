@@ -1,4 +1,3 @@
-// jQuery plugin by Macario Ortega
 // http://github.com/maca/jquery-watermark-hints
 
 jQuery.fn.hint = function(text, color) {
