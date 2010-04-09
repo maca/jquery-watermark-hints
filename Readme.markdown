@@ -1,6 +1,6 @@
 # jquery-watermark-hints
 
-Simple jQuery plugin to provide watermark hints for text input fields and text areas.
+Simple jQuery plugin to provide watermark hints and suggestions for text input fields and text areas.
 
 Example:
   <input id="telephone" name="telephone" type="text" value="value for name"/>
